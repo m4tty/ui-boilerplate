@@ -10,14 +10,9 @@ A UI for whatever your heart desires with a preference towards micro frameworks 
 		* Used everywhere, will most likely be cached by browsers
 		* Lots of community support
 		* Great for manipulating the DOM
-	* RactiveJS
-		* Great at binding data to an HTML template
-		* Lightweight (22.5KB gzipped)
-	* Page.js
-		* Great lightweight clientside router
-	* Semantic UI
-		* Clean, semantic markup
-		* Many great-looking web components
+	* Handlebars
+		* template
+	* Director
 	* AbsurdJS
 		* Makes writing well-organized CSS much easier
 		* Integrates easily with Grunt
@@ -36,8 +31,5 @@ A UI for whatever your heart desires with a preference towards micro frameworks 
 	* Uglify and CSSMin
 		* Minify those JS and CSS files for faster overall page load!
 
-## TODO
-
-* Pick a unit testing library
 
 
